@@ -1,4 +1,4 @@
-# Swarm-Data-Analysis
+# Swarm-Data-Analysis with PCA analysis
 ML applied to Boid Swarm Data  
 
 Data publicly available on UCI-ML: https://archive.ics.uci.edu/ml/datasets/Swarm+Behaviour. 
